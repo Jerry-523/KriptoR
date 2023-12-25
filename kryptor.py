@@ -4,7 +4,7 @@ import pyfiglet
 
 banner = pyfiglet.figlet_format("KRYPTOR")
 print(banner)
-print("                            @JerryKB\n\n")
+print("                            @Jerry-523\n\n")
 print("  Select: \n")
 print("----------------------------------------\n")
 print("	Encrypt Files ---------->[1]\n")
